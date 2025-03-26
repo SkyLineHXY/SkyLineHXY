@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+### About Me:
+- 🌱 I’m currently learning for the Automation School of ChongQing University to make a postgraduate degree. 
 <!--
 **SkyLineHXY/SkyLineHXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
