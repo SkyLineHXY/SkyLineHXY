@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Focus-Embodied AI%20Development-22FFC7?style=flat" />
 </p>
 
-I'm **Xdedm7**, a postgraduate student at the **School of Automation, Chongqing University**, pursuing a degree in **Control Science and Engineering**.
+I'm **Zequan Zeng**,a Master’s student at the **School of Automation, Chongqing University**, pursuing a degree in **Control Science and Engineering**.
 ### 🤖About Me:
 * 🔬 My research focuses on **robotic control**, **manipulation policies (e.g., VLA, Diffusion Policy)**, and **Embodied AI**.
 * 🚀 Passionate about developing intelligent robotic systems and exploring advanced control strategies.
