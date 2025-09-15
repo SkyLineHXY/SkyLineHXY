@@ -10,7 +10,7 @@ I'm **Zequan Zeng**,a Master’s student at the **School of Automation, Chongqin
 ### 🤖About Me:
 * 🔬 My research focuses on **robotic control**, **manipulation policies (e.g., VLA, Diffusion Policy)**, and **Embodied AI**.
 * 🚀 Passionate about developing intelligent robotic systems and exploring advanced control strategies.
-* 📫 Feel free to reach out via email: xdedm7@163.com
+* 📫 Contact: xdedm7@163.com
 
 ### 🛠Skill&Tool:
 <p>
